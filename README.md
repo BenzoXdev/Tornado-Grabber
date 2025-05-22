@@ -31,10 +31,6 @@ However, as the saying goes, all good things must come to an end. As I approach 
 
 I want to express my sincere appreciation to everyone who has participated in this project, be it through code contributions, issue reporting, or offering valuable insights. Your involvement has been the driving force behind the project's success.
 
-I'm happy to announce that noahmajors, one of the contributors to this project, has taken the initiative to fork the repository and continue its development. You can find the active fork at the following link: https://github.com/f4kedre4lity/Tornado-Grabber
-
-I encourage you all to show your support to noahmajors and the new direction they will take the project. Please consider contributing to the fork if you are interested in its future development.
-
 While this marks the end of my direct involvement with this project, I sincerely hope that the codebase and knowledge shared here will continue to benefit the community.
 
 Thank you all once again for being part of this journey. I wish you all the best in your endeavors and hope our paths may cross again in the future.
@@ -132,15 +128,12 @@ BenzoXdev
 
 [![Tutorial video](https://img.shields.io/badge/Watch-Tutorial-blue?style=for-the-badge&logo=youtube)](https://streamable.com/r9sa14)
 
-## Support the Project
+- [x] EXE Binder.
+- [x] Remove some features because they cause bugs.
+- [x] Discord JS Injection.
+- [x] Importable Cookies.
+- [x] Block AV Related Sites.
 
-If you find this project useful and would like to show your support, you can make a donation using the following cryptocurrencies:
+## Contact me
+instagram : just._.benzo
 
-- **Bitcoin (BTC):**
-  - Wallet Address: bc1quyf7d2cwrd0rgtyhtjt7ermxlw4hzg8npr4yce
-
-- **Ethereum (ETH):**
-  - Wallet Address: 0x54Ab5743141c781178863e3F658d48Cb9564f520
-
-- **USDT (Tron network):**
-  - Wallet Address: TJsixSZ9LDpn3ZNF8pEKmfNaNkMTrK1hWJ
