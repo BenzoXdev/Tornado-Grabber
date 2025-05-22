@@ -137,3 +137,8 @@ BenzoXdev
 ## Contact me
 instagram : just._.benzo
 
+## suppoet the project
+
+If you find this project useful, please consider giving it a ⭐ star on GitHub.
+It only takes a second, but it greatly helps and means a lot. Thank you for your support!
+
