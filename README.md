@@ -126,8 +126,6 @@ BenzoXdev
 5. Navigate to the **Tornado Grabber** folder and double click *Builder.bat* file.
 6. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
 
-[![Tutorial video](https://img.shields.io/badge/Watch-Tutorial-blue?style=for-the-badge&logo=youtube)](https://streamable.com/r9sa14)
-
 - [x] EXE Binder.
 - [x] Remove some features because they cause bugs.
 - [x] Discord JS Injection.
